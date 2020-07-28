@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Chapel Vault</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="request_leave">Send a request. Your chaplain will reply as soon as possible.</string>
+    <string name="wiki">A QR code is a type of matrix barcode first designed in 1994 for the automotive industry in Japan.
+        A barcode is a machine-readable optical label that contains information about the item to which it is attached</string>
+    <string name="request">Welcome, if you have unread requests, kindly APPROVE or DECLINE.</string>
+    <string name="attendance">Add a new week to scan students Quick Response code</string>
+    <string name="scan">Click on float button to scan student Quick Response code</string>
+    <string name="scan_empty">No scanned students yet</string>
+    <string name="student_qr">Display your QR CODE to get scanned.</string>
+
+    <string name="request_list">Send request. </string>
+</resources>
