@@ -4,5 +4,5 @@ Its has nice and friendly user interface.
 Its has two activity - STUDENT and CHAPLAIN activity.
 Quick Response is generated whenever a new student sign up.
 The QR code has the student details in it 
-While the Chaplain activity has a scanner to scan the student QR code
+While the Chaplain activity has a scanner to scan the student QR code so to record the particular student presence.
 I used Parse server for the backend... Thanks to FACEBOOK 
